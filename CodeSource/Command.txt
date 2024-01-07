@@ -1,0 +1,1 @@
+gcc *.c icone.o -o ../MarioSokoban.exe -lmingw32 -lSDLmain -lSDL -lSDL_image -lfmodex -lSDL_ttf -Wl,--subsystem,windows
